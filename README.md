@@ -1,0 +1,31 @@
+# 👋 Hi, I'm William — aka @builtbywilldev
+
+I build tools, not just templates.  
+I don't chase perfection — I ship and I sharpen.
+
+---
+
+## 🔧 Current Grind
+- Building [Frontend Gauntlet](https://github.com/builtbywilldev/frontend__Gauntlet) – a challenge log, not a portfolio
+- Deploying real-world UI projects
+- Experimenting with AI systems and full autonomy
+
+---
+
+## 🧠 About Me
+- I break problems down until they get scared
+- I train like I’m already on the team
+- I believe reps > resumes
+
+---
+
+## 🚀 Connect
+- [builtbywill.dev](https://builtbywill.dev)
+- [LinkedIn](https://www.linkedin.com/in/wnbrown)
+- [GitHub](https://github.com/builtbywilldev)
+
+
+<!---
+builtbywilldev/builtbywilldev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
