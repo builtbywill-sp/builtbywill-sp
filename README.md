@@ -18,13 +18,6 @@ I don't chase perfection — I ship and I sharpen.
 - I believe reps > resumes
 
 ---
-
-## 🚀 Connect
-- [builtbywill.dev](https://builtbywill.dev)
-- [LinkedIn](https://www.linkedin.com/in/wnbrown)
-- [GitHub](https://github.com/builtbywilldev)
-
-
 <!---
 builtbywilldev/builtbywilldev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
