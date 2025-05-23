@@ -1,0 +1,102 @@
+JavaScript Challenge Recap — May 13
+
+Here’s a full summary of all the problems tackled and concepts locked in today, grouped by category and ordered by progression.
+
+Array Loops & Accumulation
+
+Sum all numbers in an array
+function arrSum(arr) {
+let sum = 0;
+for (let i = 0; i < arr.length; ++i) {
+sum += arr[i];
+}
+return sum;
+}
+
+Progressive sum from 1 to num
+function progressiveSum(num) {
+let sum = 0;
+for (let i = 1; i <= num; ++i) {
+sum += i;
+}
+return sum;
+}
+
+Loop and print array elements
+Memorized the classic for loop pattern: for (let i = 0; i < arr.length; ++i)
+
+String Reversal
+
+Reverse a string (manual loop)
+function reverseString(str) {
+let reverse = '';
+for (let i = str.length - 1; i >= 0; --i) {
+reverse += str[i];
+}
+return reverse;
+}
+
+Reverse using array methods
+return str.split('').reverse().join('');
+
+Array Transformation
+
+Convert all elements to zero (3 ways)
+
+for loop with .push(0)
+
+Array(arr.length).fill(0)
+
+.map(elem => 0)
+
+Filter out all apples
+return arr.filter(elem => elem !== 'Apple');
+
+Filter out falsy values
+return arr.filter(Boolean);
+
+Convert all elements to Boolean
+return arr.map(elem => Boolean(elem));
+
+Sorting
+
+Show star rating
+
+Full stars: Math.floor(num)
+
+Half stars: if (num % 1 !== 0) add '.'
+
+Sort numbers low to high
+return arr.sort((a, b) => a - b);
+
+Sort objects high to low by price
+return arr.sort((a, b) => b.price - a.price);
+
+API Mastery
+
+Get all posts by user
+async function postsByUser(userId) {
+const promise = await fetch("https://jsonplaceholder.typicode.com/posts");
+const result = await promise.json();
+return result.filter(post => post.userId === userId);
+}
+
+Get first 6 incomplete todos
+async function firstSixIncomplete() {
+const promise = await fetch("https://jsonplaceholder.typicode.com/todos");
+const result = await promise.json();
+const incompleteTasks = result.filter(task => !task.completed).slice(0, 6);
+console.log(incompleteTasks);
+}
+
+Concepts Locked In
+
+Array iteration: for, .map(), .filter(), .sort()
+
+String manipulation: .split() / .join()
+
+Async/await with fetch()
+
+Boolean logic: truthy/falsy, !!value vs Boolean(value)
+
+Problem solving muscle: officially upgraded

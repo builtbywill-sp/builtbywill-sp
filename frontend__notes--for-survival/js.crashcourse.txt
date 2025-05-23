@@ -1,0 +1,106 @@
+// ✅ JavaScript Crash Course Summary
+
+// 🧠 1. Data Types
+// string, number, boolean, undefined, null
+// NaN = Not a Number (invalid math)
+
+// 🧠 2. Variables
+// let = changeable, const = locked, var = old/bad
+
+// 🧠 3. Equality & Comparison
+// === (strict equality), !==, <, >, <=, >=
+// == (loose equality – avoid)
+
+// 🧠 4. Truthy & Falsy
+// Falsy: false, 0, '', null, undefined, NaN
+// Truthy: basically everything else
+
+// 🧠 5. Conditionals
+// if, else if, else structure
+
+// 🧠 6. Ternary Operator
+// condition ? doIfTrue : doIfFalse
+
+// 🧠 7. Loops
+// while (condition), for (let i = 0; i < n; i++), for...of
+
+// 🧠 8. Functions
+function greet(name) {
+  return `Hello ${name}`;
+}
+const greetArrow = name => `Hello ${name}`;
+
+// 🧠 9. Arrays
+let arr = [20, 30, 40, 50, 100];
+let newArr = arr.filter(element => element < 50);
+console.log(arr[0]);
+console.log(arr[arr.length - 1]);
+arr.push(200);
+
+let grades = ["A+", "A", "FAIL"];
+let goodGrades = grades.filter(g => g !== 'FAIL');
+
+let cents = [1, 5, 10, 3].map(dollar => dollar * 100);
+
+// Manual map with loop
+let centsLoop = [];
+for (let i = 0; i < dollars.length; i++) {
+  centsLoop.push(dollars[i] * 100);
+}
+
+// 🧠 10. Objects
+let user = {
+  name: 'Will',
+  age: 28,
+  lessonsCompleted: [0, 1, 2]
+};
+console.log(user.name);
+
+// 🧠 11. Login System
+let users = [
+  { username: 'Dvyfchavid', email: 'a@gmail.com', password: 'pass' }
+];
+
+function login(email, password) {
+  for (let i = 0; i < users.length; i++) {
+    if (users[i].email === email) {
+      if (users[i].password === password) {
+        console.log('✅ Log in'); return;
+      } else {
+        console.log('❌ Wrong password'); return;
+      }
+    }
+  }
+  console.log('❌ Email not found');
+}
+
+// 🧠 12. Register
+function register(username, email, password, usersubstatus, discordid, lessonsCompleted) {
+  const newUser = { username, email, password, usersubstatus, discordid, lessonsCompleted };
+  users.push(newUser);
+  console.log('✅ Registered:', newUser);
+}
+
+// 🧠 13. DOM Manipulation
+// Selecting:
+document.querySelector('#title');
+document.getElementById('title');
+
+// Modifying:
+document.querySelector('#title').innerHTML += 'Frontend Simplified';
+document.querySelector('#title').style.color = 'red';
+
+document.querySelector('#title').classList.add('cool');
+document.querySelector('#title').classList.toggle('dark-theme');
+
+function toggleDark() {
+  document.body.classList.toggle('dark-theme');
+  console.log('Toggled');
+}
+
+// 🧠 Final Mastery
+// - You wrote loops, functions, and objects
+// - You filtered and mapped arrays
+// - You simulated login/register
+// - You manipulated the DOM
+// ✅ YOU FINISHED THE CRASH COURSE.

@@ -1,23 +1,29 @@
-# 👋 Hi, I'm William — aka @builtbywill
+# 👋 I'm William — aka @builtbywill
 
-I build tools, not just templates.  
-I don't chase perfection — I ship and I sharpen.
+I build workflows, not just websites.  
+I don’t wait for permission — I ship, I log, I level up.
 
 ---
 
-## 🔧 Current Grind
-- Building [Frontend Gauntlet](https://github.com/builtbywilldev/frontend__Gauntlet) – a challenge log, not a portfolio
-- Deploying real-world UI projects
-- Experimenting with AI systems and full autonomy
+## 🔧 Currently Building
+- `red__Collar--OS` → ReactShell meets local ops  
+- `workflow__BuiltByWill` → full-stack CLI automation  
+- `Frontend Gauntlet` → raw reps on real-world UI skills  
 
 ---
 
 ## 🧠 About Me
-- I break problems down until they get scared
-- I train like I’m already on the team
-- I believe reps > resumes
+- I train like I’m already hired  
+- I debug like I designed it  
+- I believe tools outlive résumés  
 
 ---
+
+## 💻 Frontend Stack
+- HTML5 / CSS3 / JavaScript (ES6+)  
+- React / Git / GitHub  
+- Terminal workflows, real-time debugging, pixel precision
+
 <!---
 builtbywilldev/builtbywilldev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

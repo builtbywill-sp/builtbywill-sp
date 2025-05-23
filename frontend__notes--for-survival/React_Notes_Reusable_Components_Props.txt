@@ -1,0 +1,73 @@
+
+📘 React Crash Course Notes — BuiltByWill
+
+Section: 🧱 Reusable Components
+
+1. Components are just JavaScript functions that return JSX.
+2. You can reuse them across your app by importing and calling them like HTML tags.
+
+✅ Basic Component Example:
+---------------------------
+File: Todo.jsx
+
+function Todo() {
+  return <div>Finish Frontend Simplified</div>;
+}
+
+export default Todo;
+
+✅ App.jsx Usage:
+-----------------
+import Todo from "./components/Todo.jsx";
+
+function App() {
+  return (
+    <div>
+      <Todo />
+      <Todo />
+      <Todo />
+    </div>
+  );
+}
+
+---
+
+Section: 📦 Props (Making Components Dynamic)
+
+1. Props = custom data you pass to a component.
+2. Props are function parameters that let you reuse the same component with different content.
+3. Destructure the props inside the function using `{}`.
+
+✅ Prop Example:
+----------------
+Parent:
+<MyComponent test="Testing" />
+
+Child:
+function MyComponent({ test }) {
+  return <div>{test}</div>;
+}
+
+Output: 
+Testing
+
+✅ Scrollkeeper Live Example:
+-----------------------------
+function Todo({ title }) {
+  return (
+    <div className="todo">
+      <h2>{title}</h2>
+      <button>Entomb</button>
+    </div>
+  );
+}
+
+Usage:
+<Todo title="Finish Frontend Simplified" />
+<Todo title="Finish The Interview Section" />
+<Todo title="Land a $100k job" />
+
+---
+
+Props let you control what the component renders.
+Reusable components + props = modular, powerful UIs.

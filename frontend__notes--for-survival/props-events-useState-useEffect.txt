@@ -1,0 +1,126 @@
+# 📘 React Master Notes — Props, Events, useState, useEffect
+🗓️ Date Compiled: 2025-05-22
+🧠 Source: BuiltByWill + FES Hybrid
+
+---
+
+## 🔁 Props & Event Flow
+
+### Parent to Child (Props)
+```jsx
+function Parent() {
+  function handleClick() {
+    console.log("Parent received event");
+  }
+
+  return <Child clicked={handleClick} />;
+}
+
+function Child({ clicked }) {
+  return <button onClick={clicked}>Click Me</button>;
+}
+```
+
+---
+
+## 📡 Child to Parent (Event Emission)
+```jsx
+function Modal({ cancelModal, confirmModal }) {
+  return (
+    <>
+      <button onClick={cancelModal}>Cancel</button>
+      <button onClick={confirmModal}>Confirm</button>
+    </>
+  );
+}
+```
+
+---
+
+## ⚛️ React Hook: useState
+
+### 🔢 Numbers
+```js
+setNum(10);
+setNum(prev => prev + 10);
+```
+
+### 🔘 Booleans
+```js
+setBool(true);
+setBool(prev => !prev);
+```
+
+### 📝 Strings
+```js
+setStr("Frontend");
+setStr(prev => prev + " Simplified");
+```
+
+---
+
+### 📦 Objects
+```js
+setObj(prevObj => ({ ...prevObj, quantity: prevObj.quantity + 1 }));
+```
+
+### 📚 Arrays
+```js
+setArr(prevArr => ([...prevArr, 5]));
+```
+
+---
+
+## ⏱️ React Hook: useEffect
+
+### Mount only
+```js
+useEffect(() => {
+  console.log("ONLY on mount");
+}, []);
+```
+
+### Mount + `showModal` changes
+```js
+useEffect(() => {
+  console.log(`on mount AND on showModal change`);
+}, [showModal]);
+```
+
+### Better version (Visual feedback):
+```js
+const [log, setLog] = useState("");
+
+useEffect(() => {
+  setLog("Modal was shown!");
+}, [showModal]);
+
+return <p>{log}</p>;
+```
+
+---
+
+### 🧠 Hook Behavior Summary
+
+- ✅ **Empty array** `[]`: Runs **only once** on component mount
+- ✅ `[x]`: Runs on mount + whenever `x` changes
+- ⚠️ **No array**: Runs after **every single render** (rarely used)
+
+---
+
+## 🧩 Tips & Patterns
+
+- Always use functional updater if relying on previous state
+- Never mutate arrays/objects directly — use spreads
+- Lift state to common parent when multiple children need access
+- Combine props + useState for dynamic interactivity
+- useEffect(() => ..., []) = like componentDidMount
+
+---
+
+👑 #BUILTBYWILL STRATEGY:
+- Keep a `--Lesson.js` file per topic
+- Use naming like `state__primitives--Lesson.js`, `events__emit-from-child--Lesson.js`
+- Comment optimized logic with `#BUILTBYWILL SOLUTION`
+
+You're now prepped to dominate any junior React interview or frontend feature build.

@@ -1,0 +1,63 @@
+
+📓 React Crash Course Notes — BuiltByWill
+
+🔹 What is React?
+- A JavaScript library for building user interfaces
+- Built on top of JavaScript, not a replacement
+
+🔹 Why Should I Use React?
+- ✅ Easier to use
+- 🔧 Maintainable
+- 📈 Scalable
+- 🌍 Most popular frontend framework
+
+🛠️ React App Setup (Linux Terminal)
+1. Check if Node is installed
+   node -v
+
+   If missing:
+   sudo apt update
+   sudo apt install nodejs npm
+
+2. Navigate to Desktop folder
+   cd ~/Desktop
+
+3. Create your React app
+   npx create-react-app my-app-name
+
+4. Open in VS Code
+   - Just drag and drop the project folder into VS Code
+
+📁 React Project Structure
+- public/ — Static assets (images, index.html)
+- src/ — Core source code (components, logic, styling)
+
+🧠 Understanding App.js
+- Main starting point for your app’s UI
+- JSX = JavaScript + XML hybrid
+- Looks like HTML but allows logic inside UI
+
+🚀 Run Your React App
+- From the project folder, run:
+  npm start
+
+- This launches a dev server at:
+  http://localhost:3000
+
+🧼 Auto-reloads, live feedback — way cleaner than raw HTML setups.
+
+📦 Components, Imports & Exports (React Version)
+- Functions = Components
+  function Header() {
+    return <h1>Hello</h1>;
+  }
+
+- Export a component
+  export default Header;
+
+- Import a component
+  import Header from './Header';
+
+🧠 TL;DR: Everything’s modular — import what you need, keep files clean, and reuse components like LEGO bricks.
+
+👑 Sidebar Truth: Python still king.
