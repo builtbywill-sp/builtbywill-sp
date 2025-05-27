@@ -1,28 +1,50 @@
-# 👋 I'm William — aka @builtbywill
+## 🎨 BuiltByWill — Frontend Flow Meets Terminal Precision
 
-I build workflows, not just websites.  
-I don’t wait for permission — I ship, I log, I level up.
-
----
-
-## 🔧 Currently Building
-- `red__Collar--OS` → ReactShell meets local ops  
-- `workflow__BuiltByWill` → full-stack CLI automation  
-- `Frontend Gauntlet` → raw reps on real-world UI skills  
+I build fast, responsive frontends with handcrafted logic under the hood.  
+Not just websites — full-stack experiences. Logged, styled, and deployed with discipline.
 
 ---
 
-## 🧠 About Me
-- I train like I’m already hired  
-- I debug like I designed it  
-- I believe tools outlive résumés  
+### 🚧 Currently Building
+
+• `Violet-Collar` → OS-style UI built in React with terminal-inspired styling  
+• `Frontend_Gauntlet` → challenge-driven UI reps & showcase playground  
+• `library-react-tutorial` → modern bookstore app with modular components, star ratings, and responsive layout
 
 ---
 
-## 💻 Frontend Stack
-- HTML5 / CSS3 / JavaScript (ES6+)  
-- React / Git / GitHub  
-- Terminal workflows, real-time debugging, pixel precision
+### 📅 Roadmap
+
+• 🟢 Push daily commits with real work  
+• 🟣 Finish front-end bootcamp, ship 3 live apps  
+• 🔵 Launch Morpheus MVP with offline CLI AI  
+• 🟡 Sell RepoForge v2 for $1 and track usage *(coming soon)*  
+
+---
+
+### 👨‍🎨 About Me
+
+• I train like I'm already hired  
+• I write clean, class-based CSS (BEM is life)  
+• I believe design is a function, not decoration  
+
+---
+
+### 💻 Frontend Stack
+
+• HTML5 / CSS3 / JavaScript (ES6+)  
+• React / Git / GitHub / CLI tooling  
+• Terminal workflows + component-first thinking  
+• BEM, Flexbox, Grid, transitions, accessibility
+
+---
+
+### 🛠 Featured Tools
+
+• **Violet Collar** — secure React UI built like a desktop shell *(UI-first, responsive, dark-mode-ready)*  
+• **RepoForge** — 1-click repo generator with LICENSE, README, git, and branding  
+• **Morpheus** — offline AI engine with memory, command chaining, and local ops
+
 
 <!---
 builtbywilldev/builtbywilldev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
