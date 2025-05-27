@@ -9,7 +9,7 @@ Not just websites — full-stack experiences. Logged, styled, and deployed with 
 
 • `Violet-Collar` → OS-style UI built in React with terminal-inspired styling  
 • `Frontend_Gauntlet` → challenge-driven UI reps & showcase playground  
-• `library-react-tutorial` → modern bookstore app with modular components, star ratings, and responsive layout
+
 
 ---
 
