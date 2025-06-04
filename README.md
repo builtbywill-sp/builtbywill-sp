@@ -1,52 +1,53 @@
-## 🎨 BuiltByWill — Frontend Flow Meets Terminal Precision
+## ⚙️ BuiltByWill — Frontend Precision Meets Terminal Flow
 
-I build fast, responsive frontends with handcrafted logic under the hood.  
-Not just websites — full-stack experiences. Logged, styled, and deployed with discipline.
-
----
-
-### 🚧 Currently Building
-
-• `Violet-Collar` → OS-style UI built in React with terminal-inspired styling  
-• `Frontend_Gauntlet` → challenge-driven UI reps & showcase playground  
-
+I build lightning-fast frontends and handcrafted systems under the hood.  
+Not just websites — full-stack experiences, styled with discipline and engineered for autonomy.
 
 ---
 
-### 📅 Roadmap
+### 🚧 Active Projects
 
-• 🟢 Push daily commits with real work  
-• 🟣 Finish front-end bootcamp, ship 3 live apps  
-• 🔵 Launch Morpheus MVP with offline CLI AI  
-• 🟡 Sell RepoForge v2 for $1 and track usage *(coming soon)*  
-
----
-
-### 👨‍🎨 About Me
-
-• I train like I'm already hired  
-• I write clean, class-based CSS (BEM is life)  
-• I believe design is a function, not decoration  
+- `SaaS-Learning-App` — Auth, AI, payments. A complete SaaS build from scratch  
+- `Frontend_Gauntlet` — Daily UI challenges + real-time logic reps  
+- `Silent-Prototype-LandingPage` — Freelance site + SaaS product launcher  
+- **Coming Soon**:  
+  - AI Interview Platform  
+  - HavenTube (YouTube clone)  
+  - HavenStream (Twitch clone)
 
 ---
 
-### 💻 Frontend Stack
+### 🗺️ Dev Roadmap
 
-• HTML5 / CSS3 / JavaScript (ES6+)  
-• React / Git / GitHub / CLI tooling  
-• Terminal workflows + component-first thinking  
-• BEM, Flexbox, Grid, transitions, accessibility
+- 🟢 Daily commits with real output  
+- 🟣 Finish frontend bootcamp + ship 3 live projects  
+- 🔵 Study React + low-level logic daily  
+- 🟡 Document the process for devs and recruiters
 
 ---
 
-### 🛠 Featured Tools
+### 👨‍💻 About Me
 
-• **Violet Collar** — secure React UI built like a desktop shell *(UI-first, responsive, dark-mode-ready)*  
-• **RepoForge** — 1-click repo generator with LICENSE, README, git, and branding  
-• **Morpheus** — offline AI engine with memory, command chaining, and local ops
+- I train like I'm already hired  
+- I write clean, semantic CSS — BEM is life  
+- I believe design is function, not decoration  
+- I build systems, not just sites
 
+---
+
+### 🧰 Frontend Tech Stack
+
+- **Languages**: HTML5, CSS3, JavaScript (ES6+)  
+- **Frameworks**: React, CLI tooling, Git  
+- **Styling**: BEM, Flexbox, Grid, Transitions, A11y  
+- **Workflow**: Terminal-first, component-driven
+
+---
+
+🔗 **Let's build something powerful.**
 
 <!---
-builtbywilldev/builtbywilldev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+builtbywilldev/builtbywilldev is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+You can click the Preview link to see it live.
 --->
+
