@@ -38,7 +38,7 @@ Not just websites — full-stack experiences, styled with discipline and enginee
 ### 🧰 Frontend Tech Stack
 
 - **Languages**: HTML5, CSS3, JavaScript (ES6+)  
-- **Frameworks**: React, CLI tooling, Git  
+- **Frameworks**: React, Next.js, CLI tooling, Git  
 - **Styling**: BEM, Flexbox, Grid, Transitions, A11y  
 - **Workflow**: Terminal-first, component-driven
 
