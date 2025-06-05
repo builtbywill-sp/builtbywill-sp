@@ -1,7 +1,8 @@
-## ⚙️ BuiltByWill — Frontend Precision Meets Terminal Flow
+## 🧠 BuiltByWill — Frontend Flow. Terminal Logic.
 
-I build lightning-fast frontends and handcrafted systems under the hood.  
-Not just websites — full-stack experiences, styled with discipline and engineered for autonomy.
+I build lightning-fast frontends and handcrafted logic systems.
+Not just websites — full-stack experiences with discipline and autonomy.
+
 
 ---
 
