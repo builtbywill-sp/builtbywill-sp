@@ -44,6 +44,15 @@ Not just websites — full-stack experiences, styled with discipline and enginee
 
 ---
 
+### 🧠 Side Projects
+
+> Pure logic. No frameworks. Just brainpower.
+
+- **coldmetal.c** — Offline transformer REPL in C (no Python, no torch). Built for zero-dependency AI inference.
+⚠️ Not frontend — but I believe frontend devs should be fearless with logic.
+
+---
+
 🔗 **Let's build something powerful.**
 
 <!---
