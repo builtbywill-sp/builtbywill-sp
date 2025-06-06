@@ -37,7 +37,7 @@ Not just websites — full-stack experiences with discipline and autonomy.
 
 ### 🧰 Stack & Tools
 
-<<div align="center">
+<div align="center">
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
     <img src="https://skillicons.dev/icons?i=html" height="48" />
@@ -48,32 +48,33 @@ Not just websites — full-stack experiences with discipline and autonomy.
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
     <img src="https://skillicons.dev/icons?i=js" height="48" />
   </a>
-  <a href="https://reactjs.org" title="React.js">
+  <a href="https://react.dev/" title="React.js">
     <img src="https://skillicons.dev/icons?i=react" height="48" />
   </a>
-  <a href="https://nextjs.org" title="Next.js">
+  <a href="https://nextjs.org/" title="Next.js">
     <img src="https://skillicons.dev/icons?i=nextjs" height="48" />
   </a>
-  <a href="https://tailwindcss.com" title="Tailwind CSS">
+  <a href="https://tailwindcss.com/" title="Tailwind CSS">
     <img src="https://skillicons.dev/icons?i=tailwind" height="48" />
   </a>
-  <a href="https://nodejs.org" title="Node.js">
+  <a href="https://nodejs.org/" title="Node.js">
     <img src="https://skillicons.dev/icons?i=nodejs" height="48" />
   </a>
-  <a href="https://git-scm.com" title="Git">
+  <a href="https://git-scm.com/" title="Git">
     <img src="https://skillicons.dev/icons?i=git" height="48" />
   </a>
-  <a href="https://github.com" title="GitHub">
+  <a href="https://github.com/" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github" height="48" />
   </a>
-  <a href="https://code.visualstudio.com" title="VS Code">
+  <a href="https://code.visualstudio.com/" title="VS Code">
     <img src="https://skillicons.dev/icons?i=vscode" height="48" />
   </a>
-  <a href="https://figma.com" title="Figma">
+  <a href="https://figma.com/" title="Figma">
     <img src="https://skillicons.dev/icons?i=figma" height="48" />
   </a>
 
 </div>
+
 
 
 ---
