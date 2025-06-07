@@ -17,24 +17,6 @@ Not just websites — full-stack experiences with discipline and autonomy.
 
 ---
 
-### 🗺️ Dev Roadmap
-
-- ✅ Push code *daily* — no zero days
-- 📦 Ship 3 full React projects by bootcamp end
-- 🧠 Build AI logic systems from scratch (coldmetal.c)
-- 🧾 Document journey in public: LinkedIn, GitHub, Reddit
-
----
-
-### 👨‍💻 About Me
-
-- "I train like I'm already hired."
-- CSS architecture is my dojo — **BEM or nothing**
-- I don’t just learn frameworks — I build tools
-- Projects get shipped. No tutorials left half-baked.
-
----
-
 ### 🧰 Stack & Tools
 
 <div align="center">
@@ -75,7 +57,24 @@ Not just websites — full-stack experiences with discipline and autonomy.
 
 </div>
 
+---
 
+
+### 🗺️ Dev Roadmap
+
+- ✅ Push code *daily* — no zero days
+- 📦 Ship 3 full React projects by bootcamp end
+- 🧠 Build AI logic systems from scratch (coldmetal.c)
+- 🧾 Document journey in public: LinkedIn, GitHub, Reddit
+
+---
+
+### 👨‍💻 About Me
+
+- "I train like I'm already hired."
+- CSS architecture is my dojo — **BEM or nothing**
+- I don’t just learn frameworks — I build tools
+- Projects get shipped. No tutorials left half-baked.
 
 ---
 
