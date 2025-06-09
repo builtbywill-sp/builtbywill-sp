@@ -96,8 +96,7 @@ Not just websites — full-stack experiences with discipline and autonomy.
 
 ### 🔗 Let’s Build
 
-Whether you're hiring, collaborating, or just curious: 
-[builtbywill.dev](https://www.builtbywill.dev/)
+Whether you're hiring, collaborating, or just curious: [builtbywill.dev](https://www.builtbywill.dev/)
 📬 WNBrown@builtbywill.dev
 𝕏 @builtbywill
 ---
