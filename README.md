@@ -7,7 +7,7 @@ Not just websites — full-stack experiences with discipline and autonomy.
 
 ### ⚙️ Active Dev Ops
 
-- 🚀 `SaaS-Learning-App`: Full authentication, AI-powered chat, Stripe payments — built from scratch
+- 💼 `Mock-Interview-Platform`: Interview prep app with  dynamic AI conversation.
 - 🧪 `Frontend_Gauntlet`: Daily UI + logic challenges, tracked and deployed
 - 🧵 `Silent-Prototype-LandingPage`: Terminal-inspired launch site for a full product suite
 - 🔮 Upcoming:
@@ -59,22 +59,20 @@ Not just websites — full-stack experiences with discipline and autonomy.
 
 ---
 
-
 ### 🗺️ Dev Roadmap
 
-- ✅ Push code *daily* — no zero days
-- 📦 Ship 3 full React projects by bootcamp end
-- 🧠 Build AI logic systems from scratch (coldmetal.c)
+- ✅ Daily push streak — zero days missed
+- 🚢 Ship React platforms — with full UI + auth + logic
 - 🧾 Document journey in public: LinkedIn, GitHub, Reddit
 
 ---
 
 ### 👨‍💻 About Me
 
-- "I train like I'm already hired."
-- CSS architecture is my dojo — **BEM or nothing**
-- I don’t just learn frameworks — I build tools
-- Projects get shipped. No tutorials left half-baked.
+- I train like I’m already on the job — daily reps, full-stack focus
+- CSS architecture is my dojo — BEM is the standard
+- I don’t just learn frameworks — I build tools around them
+- Every project gets shipped — no half-finished tutorials in sight
 
 ---
 
@@ -89,17 +87,19 @@ Not just websites — full-stack experiences with discipline and autonomy.
 
 ### 🧠 Philosophy
 
-- Don’t wait to be told what to build
-- Systems > Sites
-- Autonomy > Buzzwords
-- Feedback > Flattery
+- Take initiative - don't wait for permission to create
+- Prioritize robust systems over surface-level sites
+- Build with autonomy and clarity, not trends
+- Seek usefullfeedback over empty praise
 
 ---
 
 ### 🔗 Let’s Build
 
-Whether you're hiring, collaborating, or just curious: [builtbywill.dev](https://github.com/builtbywilldev)
-
+Whether you're hiring, collaborating, or just curious: 
+[builtbywill.dev](https://www.builtbywill.dev/)
+📬 WNBrown@builtbywill.dev
+𝕏 @builtbywill
 ---
 
 <!---
