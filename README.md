@@ -9,6 +9,7 @@ Not just websites — full-stack experiences with discipline and autonomy.
 
 
 - 💼 [`Mock-Interview-Platform`](https://github.com/builtbywilldev/haven-interview): Interview prep app with dynamic AI conversation.
+- ⚔️ [`Havent-Table`](https://github.com/builtbywilldev/haven-table): A multi-agent debate simulator UI. React + Tailwind interface, Google Gemini-powered proof-of-concept.
 - 🧪 [`Frontend_Gauntlet`](https://github.com/builtbywilldev/frontend__Gauntlet): Daily UI + logic challenges, tracked and deployed
 - 🧵 [`Silent-Prototype-Labs`](https://github.com/builtbywilldev/silent-prototype): Terminal-inspired launch site for a full product suite
 - 🔮 Upcoming:
