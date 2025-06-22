@@ -36,8 +36,8 @@
       <td><strong>🔮</strong></td>
       <td>
         <strong>Upcoming:</strong><br/>
-        📺 <code>HavenTube</code> — YouTube clone<br/>
-        🎮 <code>HavenStream</code> — Twitch clone
+        📺 <code>HavenTube</code> - YouTube clone<br/>
+        🎮 <code>HavenStream</code> - Twitch clone
       </td>
     </tr>
   </table>
