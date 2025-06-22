@@ -1,7 +1,13 @@
-## 🧠 BuiltByWill — Frontend Flow. Terminal Logic.
+<div align="center">
 
-I build lightning-fast frontends and handcrafted logic systems.  
-Not just websites — full-stack experiences with discipline and autonomy.
+<h2>🧠 <code>BuiltByWill</code></h2>
+<h3><em>// Frontend Flow. Terminal Logic. System Soul.</em></h3>
+<p>
+<code>$ whoami → system architect & UI tactician</code><br/>
+<code>$ mission → deploy clean UIs & handcrafted logic daily</code>
+</p>
+
+</div>
 
 ---
 
