@@ -1,3 +1,5 @@
+<hr/>
+
 <div align="center">
 
 <h2>🧠 <code>BuiltByWill</code></h2>
@@ -9,7 +11,7 @@
 
 </div>
 
----
+<hr/>
 
 <div align="center">
 <h3 align="center">⚙️ Active Dev Ops</h3>
@@ -42,7 +44,7 @@
 
 </div>
 
----
+<hr/>
 
 
 <div align="center">
@@ -83,7 +85,7 @@
 
 </div>
 
----
+<hr/>
 
 <h3 align="center">🗺 Dev Roadmap</h3>
 <div align="center">
@@ -103,32 +105,66 @@
   </table>
 </div>
 
----
+<hr/>
 
-<h3 align="center">👨‍💻 About Me</h3>
+<details>
 
-- First and foremost, I’m a father. I build systems — but I’m raising a family.
-- I code with urgency and patience. daily reps, long-game mindset
-- I treat frontend like an art form. BEM is the brush
-- I create tools, not just follow tutorials
-- I ship. Always. Every project hits GitHub, no half-done ghosts
----
+<summary ><strong >👨‍💻 About Me</strong> - click to expand</summary>
+<br/>
+
+<table align="center">
+  <tr>
+    <td>👨‍👧‍👦</td>
+    <td><strong>Father first. System builder second.</strong><br>Raising a family while building logic-powered UIs that last.</td>
+  </tr>
+  <tr>
+    <td>🎨</td>
+    <td><strong>Frontend is my artform.</strong><br>BEM is the brush. I don't copy trends, I craft interfaces.</td>
+  </tr>
+  <tr>
+    <td>📦</td>
+    <td><strong>Zero ghost repos.</strong><br>Every project is pushed, versioned, and published — no half-built relics.</td>
+  </tr>
+  <tr>
+    <td>⚔️</td>
+    <td><strong>Urgency is my engine.</strong><br>Daily commits. Minimal drag. I rep harder than bootcampers dream of.</td>
+  </tr>
+  <tr>
+    <td>🧠</td>
+    <td><strong>Systems over scripts.</strong><br>I build scalable toolchains, not one-offs. Each repo fits into a larger architecture.</td>
+  </tr>
+</table>
+
+</details>
+
+
+<hr/>
 
 <h3 align="center">🧠 System Projects (Low-Level Logic)</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td><code>coldmetal.c</code></td>
+      <td>Pure C transformer REPL. Zero dependencies. No Python. Semantic memory recall.</td>
+    </tr>
+    <tr>
+      <td>⚠️</td>
+      <td>Not frontend, but UI devs should master the stack beneath the screen.</td>
+    </tr>
+  </table>
+</div>
 
-> Frontend is the interface. Logic is the soul.
+<hr/>
 
-- **coldmetal.c** — Pure C-based transformer REPL with memory recall and semantic logic. Built with no Python, no torch, and zero dependencies.  
-> ⚠️ Not frontend, but I believe UI devs should master the stack beneath the screen.
-
----
-
-<h3 align="center">🧭 Philosophy</h3>
-
-- Take initiative - don't wait for permission to create
-- Prioritize robust systems over surface-level sites
-- Build with autonomy and clarity, not trends
-- Seek usefullfeedback over empty praise
+<h3 align="center">📜 Philosophy</h3>
+<div align="center">
+  <table>
+    <tr><td>⚡</td><td>Take initiative — no permission needed</td></tr>
+    <tr><td>🧱</td><td>Prioritize robust systems over surface-level sites</td></tr>
+    <tr><td>🧭</td><td>Clarity + autonomy > trend-chasing</td></tr>
+    <tr><td>🛠️</td><td>Feedback over praise — improve with intent</td></tr>
+  </table>
+</div>
 
 <hr/>
 
