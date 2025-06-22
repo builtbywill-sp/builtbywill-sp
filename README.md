@@ -7,9 +7,6 @@ Not just websites — full-stack experiences with discipline and autonomy.
 
 ### ⚙️ Active Dev Ops
 
-
-### ⚙️ Active Dev Ops
-
 <div align="center">
 
   <table>
