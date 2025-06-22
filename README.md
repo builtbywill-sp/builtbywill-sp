@@ -2,13 +2,14 @@
 
 <h2>🧠 <code>BuiltByWill</code></h2>
 <h3><em>// Frontend Flow. Terminal Logic. System Soul.</em></h3>
-<pre><code>
-$ whoami   → system architect & UI tactician
-$ mission  → deploy clean UIs & handcrafted logic daily
-$ status   → [ OK ] systems online — pushing daily
-</code></pre>
+<p>
+<code>$ whoami → system architect & UI tactician</code><br/>
+<code>$ mission → deploy clean UIs & handcrafted logic daily</code>
+  <code>$ status   → [ OK ] systems online && pushing daily</code>
+</p>
 
 </div>
+
 
 ---
 
