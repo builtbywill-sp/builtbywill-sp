@@ -122,17 +122,28 @@
 - Build with autonomy and clarity, not trends
 - Seek usefullfeedback over empty praise
 
----
+<hr/>
 
-### 🔗 Let’s Build
+<h3 align="center">🧵 Let’s Build</h3>
+<h6 align="center">Whether you're hiring, collaborating, or just curious →</h6>
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>🌐</strong></td>
+      <td><a href="https://www.builtbywill.dev" target="_blank"><code>builtbywill.dev</code></a></td>
+    </tr>
+    <tr>
+      <td><strong>📬</strong></td>
+      <td><a href="mailto:WNBrown@builtbywill.dev"><code>WNBrown@builtbywill.dev</code></a></td>
+    </tr>
+    <tr>
+      <td><strong>𝕏</strong></td>
+      <td><a href="https://x.com/builtbywill" target="_blank"><code>@builtbywill</code></a></td>
+    </tr>
+  </table>
+</div>
 
-Whether you're hiring, collaborating, or just curious:
-
-- 🌐 [builtbywill.dev](https://www.builtbywill.dev)
-- 📬 [WNBrown@builtbywill.dev](mailto:WNBrown@builtbywill.dev)
-- 𝕏 [@builtbywill](https://x.com/builtbywill)
-
----
+<hr/>
 
 <!---
 builtbywilldev/builtbywilldev is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
