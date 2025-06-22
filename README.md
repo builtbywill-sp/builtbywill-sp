@@ -9,13 +9,10 @@
 
 </div>
 
-
 ---
 
-### ⚙️ Active Dev Ops
-
 <div align="center">
-
+<h3 align="center">⚙️ Active Dev Ops</h3>
   <table>
     <tr>
       <td><strong>💼</strong></td>
@@ -47,10 +44,9 @@
 
 ---
 
-### 🧰 Stack & Tools
 
 <div align="center">
-
+<h3 align="center">🧰 Stack & Tools</h3>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
     <img src="https://skillicons.dev/icons?i=html" height="48" />
   </a>
@@ -89,15 +85,27 @@
 
 ---
 
-### 🗺️ Dev Roadmap
-
-- ✅ Daily push streak — zero days missed
-- 🚢 Ship React platforms — with full UI + auth + logic
-- 🧾 Document journey in public: LinkedIn, GitHub, Reddit
+<h3 align="center">🗺 Dev Roadmap</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td>✅</td>
+      <td>Daily push streak — zero days missed</td>
+    </tr>
+    <tr>
+      <td>🚀</td>
+      <td>Ship React platforms — with full UI + auth + logic</td>
+    </tr>
+    <tr>
+      <td>📢</td>
+      <td>Document journey in public: LinkedIn, GitHub, Reddit</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 👨‍💻 About Me
+<h3 align="center">👨‍💻 About Me</h3>
 
 - First and foremost, I’m a father. I build systems — but I’m raising a family.
 - I code with urgency and patience. daily reps, long-game mindset
@@ -106,7 +114,7 @@
 - I ship. Always. Every project hits GitHub, no half-done ghosts
 ---
 
-### 💻 System Projects (Low-Level Logic)
+<h3 align="center">🧠 System Projects (Low-Level Logic)</h3>
 
 > Frontend is the interface. Logic is the soul.
 
@@ -115,7 +123,7 @@
 
 ---
 
-### 🧠 Philosophy
+<h3 align="center">🧭 Philosophy</h3>
 
 - Take initiative - don't wait for permission to create
 - Prioritize robust systems over surface-level sites
@@ -124,7 +132,7 @@
 
 <hr/>
 
-<h3 align="center">🧵 Let’s Build</h3>
+<h3 align="center">🛠 Let’s Build</h3>
 <h6 align="center">Whether you're hiring, collaborating, or just curious →</h6>
 <div align="center">
   <table>
