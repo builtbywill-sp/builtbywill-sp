@@ -5,7 +5,6 @@
 <p>
 <code>$ whoami → system architect & UI tactician</code><br/>
 <code>$ mission → deploy clean UIs & handcrafted logic daily</code>
-  <code>$ status   → [ OK ] systems online && pushing daily</code>
 </p>
 
 </div>
