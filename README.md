@@ -8,13 +8,38 @@ Not just websites — full-stack experiences with discipline and autonomy.
 ### ⚙️ Active Dev Ops
 
 
-- 💼 [`Mock-Interview-Platform`](https://github.com/builtbywilldev/haven-interview): Interview prep app with dynamic AI conversation.
-- ⚔️ [`Havent-Table`](https://github.com/builtbywilldev/haven-table): A multi-agent debate simulator UI. React + Tailwind interface, Google Gemini-powered proof-of-concept.
-- 🧪 [`Frontend_Gauntlet`](https://github.com/builtbywilldev/frontend__Gauntlet): Daily UI + logic challenges, tracked and deployed
-- 🧵 [`Silent-Prototype-Labs`](https://github.com/builtbywilldev/silent-prototype): Terminal-inspired launch site for a full product suite
-- 🔮 Upcoming:
-  - 📺 HavenTube (YouTube clone)
-  - 🎮 HavenStream (Twitch clone)
+### ⚙️ Active Dev Ops
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td><strong>💼</strong></td>
+      <td><a href="https://github.com/builtbywilldev/haven-interview"><code>Mock-Interview-Platform</code></a><br/>Interview prep app with dynamic AI conversation.</td>
+    </tr>
+    <tr>
+      <td><strong>⚔️</strong></td>
+      <td><a href="https://github.com/builtbywilldev/haven-table"><code>Havent-Table</code></a><br/>Multi-agent debate simulator UI. React + Tailwind. Gemini-powered proof-of-concept.</td>
+    </tr>
+    <tr>
+      <td><strong>🧪</strong></td>
+      <td><a href="https://github.com/builtbywilldev/frontend__Gauntlet"><code>Frontend_Gauntlet</code></a><br/>Daily UI + logic challenges. Documented and deployed.</td>
+    </tr>
+    <tr>
+      <td><strong>🧵</strong></td>
+      <td><a href="https://github.com/builtbywilldev/silent-prototype"><code>Silent-Prototype-Labs</code></a><br/>Terminal-themed suite launcher. Foundation for systemized builds.</td>
+    </tr>
+    <tr>
+      <td><strong>🔮</strong></td>
+      <td>
+        <strong>Upcoming:</strong><br/>
+        📺 <code>HavenTube</code> — YouTube clone<br/>
+        🎮 <code>HavenStream</code> — Twitch clone
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ---
 
@@ -70,11 +95,11 @@ Not just websites — full-stack experiences with discipline and autonomy.
 
 ### 👨‍💻 About Me
 
-- I train like I’m already on the job — daily reps, full-stack focus
-- CSS architecture is my dojo — BEM is the standard
-- I don’t just learn frameworks — I build tools around them
-- Every project gets shipped — no half-finished tutorials in sight
-
+- First and foremost, I’m a father. I build systems — but I’m raising a family.
+- I code with urgency and patience. daily reps, long-game mindset
+- I treat frontend like an art form. BEM is the brush
+- I create tools, not just follow tutorials
+- I ship. Always. Every project hits GitHub, no half-done ghosts
 ---
 
 ### 💻 System Projects (Low-Level Logic)
