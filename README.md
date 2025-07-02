@@ -2,12 +2,14 @@
 
 <div align="center">
 
-<h2>🧠 <code>BuiltByWill</code></h2>
-<h3><em>// Frontend Flow. Terminal Logic. System Soul.</em></h3>
-<p>
-<code>$ whoami → system architect & UI tactician</code><br/>
-<code>$ mission → deploy clean UIs & handcrafted logic daily</code>
-</p>
+# 🧠 BuiltByWill
+
+`// Mythmaker in code. Builder of systems. Operator of fate.`
+
+> `$ whoami` → creator-class tactician, forging logic into legend  
+> `$ mission` → distill complexity into command, extract signal from chaos
+
+[🕳️ SilentPrototype.com](https://silentprototype.com) • [📡 Contact](mailto:builtbywill@silentprototype.com)
 
 </div>
 
@@ -95,45 +97,69 @@
 
 <hr/>
 
-
 <div align="center">
 <h3 align="center">🧰 Stack & Tools</h3>
+
+  <!-- Web Core -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
     <img src="https://skillicons.dev/icons?i=html" height="48" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
     <img src="https://skillicons.dev/icons?i=css" height="48" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
     <img src="https://skillicons.dev/icons?i=js" height="48" />
   </a>
-  <a href="https://react.dev/" title="React.js">
-    <img src="https://skillicons.dev/icons?i=react" target="_blank" height="48" />
+  <a href="https://react.dev/" title="React">
+    <img src="https://skillicons.dev/icons?i=react" height="48" />
   </a>
   <a href="https://nextjs.org/" title="Next.js">
-    <img src="https://skillicons.dev/icons?i=nextjs" target="_blank" height="48" />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="48" />
   </a>
   <a href="https://tailwindcss.com/" title="Tailwind CSS">
-    <img src="https://skillicons.dev/icons?i=tailwind" target="_blank" height="48" />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="48" />
   </a>
+
+  <!-- Backend & Infra -->
   <a href="https://nodejs.org/" title="Node.js">
-    <img src="https://skillicons.dev/icons?i=nodejs" target="_blank" height="48" />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="48" />
   </a>
+  <a href="https://www.sqlite.org/index.html" title="SQLite">
+    <img src="https://skillicons.dev/icons?i=sqlite" height="48" />
+  </a>
+  <a href="https://www.mysql.com/" title="MySQL">
+    <img src="https://skillicons.dev/icons?i=mysql" height="48" />
+  </a>
+  <a href="https://www.docker.com/" title="Docker">
+    <img src="https://skillicons.dev/icons?i=docker" height="48" />
+  </a>
+
+  <!-- Language & Shell -->
+  <a href="https://www.learn-c.org/" title="C Language">
+    <img src="https://skillicons.dev/icons?i=c" height="48" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" title="Bash / Shell">
+    <img src="https://skillicons.dev/icons?i=bash" height="48" />
+  </a>
+
+  <!-- DevOps & Tools -->
   <a href="https://git-scm.com/" title="Git">
-    <img src="https://skillicons.dev/icons?i=git" target="_blank" height="48" />
+    <img src="https://skillicons.dev/icons?i=git" height="48" />
   </a>
   <a href="https://github.com/" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" target="_blank" height="48" />
+    <img src="https://skillicons.dev/icons?i=github" height="48" />
   </a>
   <a href="https://code.visualstudio.com/" title="VS Code">
-    <img src="https://skillicons.dev/icons?i=vscode" target="_blank" height="48" />
+    <img src="https://skillicons.dev/icons?i=vscode" height="48" />
   </a>
   <a href="https://figma.com/" title="Figma">
-    <img src="https://skillicons.dev/icons?i=figma" target="_blank" height="48" />
+    <img src="https://skillicons.dev/icons?i=figma" height="48" />
+  </a>
+  <a href="https://www.linux.org/" title="Linux">
+  <img src="https://skillicons.dev/icons?i=linux" height="48" />
   </a>
 
 </div>
-
 <hr/>
 
 <h3 align="center">🗺 Dev Roadmap</h3>
