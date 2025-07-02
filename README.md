@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🧠 BuiltByWill
+# 🧠 BuiltByWill™
 
 `// Mythmaker in code. Builder of systems. Operator of fate.`
 
