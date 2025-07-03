@@ -26,7 +26,6 @@
         <th align="left">📝 Description</th>
       </tr>
     </thead>
-    <tbody>
        <td>🛰️</td>
         <td><a href="https://www.silentprototype.com/" target="_blank">silentprototype.com</a></td>
         <td>Beta home of Silent Prototype Labs & tools</td>
@@ -52,9 +51,7 @@
         <td>Admin dashboard clone w/ modern UI and logic</td>
       </tr>
       <tr>
-       
-    </tbody>
-  </table>
+         </table>
 
 </details>
 
