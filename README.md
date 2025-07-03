@@ -162,34 +162,34 @@
 <hr/>
 
 <details>
-
-<summary ><strong >👨‍💻 About Me</strong> - click to expand</summary>
+<summary><strong>👨‍💻 About Me</strong> — click to expand</summary>
 <br/>
 
 <table align="center">
   <tr>
     <td>👨‍👧‍👦</td>
-    <td><strong>Father first. System builder second.</strong><br>Raising a family while building logic-powered UIs that last.</td>
+    <td><strong>Father first. Operator always.</strong><br>Everything I build secures a future for my family. End of story.</td>
   </tr>
   <tr>
-    <td>🎨</td>
-    <td><strong>Frontend is my artform.</strong><br>BEM is the brush. I don't copy trends, I craft interfaces.</td>
+    <td>🛡️</td>
+    <td><strong>Security is non-negotiable.</strong><br>Encrypted systems, offline vaults, airgapped protocols — I build like it matters.</td>
   </tr>
   <tr>
     <td>📦</td>
-    <td><strong>Zero ghost repos.</strong><br>Every project is pushed, versioned, and published — no half-built relics.</td>
+    <td><strong>No ghost code.</strong><br>Every repo is active, versioned, and mission-driven. No artifacts. No bloat.</td>
   </tr>
   <tr>
     <td>⚔️</td>
-    <td><strong>Urgency is my engine.</strong><br>Daily commits. Minimal drag. I rep harder than bootcampers dream of.</td>
+    <td><strong>Discipline over dopamine.</strong><br>Daily commits. Tactical execution. I show up when others tap out.</td>
   </tr>
   <tr>
     <td>🧠</td>
-    <td><strong>Systems over scripts.</strong><br>I build scalable toolchains, not one-offs. Each repo fits into a larger architecture.</td>
+    <td><strong>Systems win wars.</strong><br>I don't write scripts — I forge infrastructure. Every line feeds the machine.</td>
   </tr>
 </table>
 
 </details>
+
 
 <hr/>
 
