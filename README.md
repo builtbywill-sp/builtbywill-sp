@@ -86,6 +86,10 @@
   <a href="https://tailwindcss.com/" title="Tailwind CSS">
     <img src="https://skillicons.dev/icons?i=tailwind" height="48" />
   </a>
+  <a href="https://www.electronjs.org/" title="Electron">
+  <img src="https://skillicons.dev/icons?i=electron" height="48" />
+</a>
+
 
   <!-- Backend & Infra -->
   <a href="https://nodejs.org/" title="Node.js">
