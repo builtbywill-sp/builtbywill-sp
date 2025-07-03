@@ -27,6 +27,10 @@
       </tr>
     </thead>
     <tbody>
+       <td>🛰️</td>
+        <td><a href="https://www.silentprototype.com/" target="_blank">silentprototype.com</a></td>
+        <td>Beta home of Silent Prototype Labs & tools</td>
+      </tr>
       <tr>
         <td>🧠</td>
         <td><a href="https://www.builtbywill.dev/" target="_blank">builtbywill.dev</a></td>
@@ -48,15 +52,7 @@
         <td>Admin dashboard clone w/ modern UI and logic</td>
       </tr>
       <tr>
-        <td>🛰️</td>
-        <td><a href="https://www.silentprototype.com/" target="_blank">silentprototype.com</a></td>
-        <td>Beta home of Silent Prototype Labs & tools</td>
-      </tr>
-      <tr>
-        <td>🎬</td>
-        <td><a href="https://builtbywilldev.github.io/api__Practice--Mini-Project/search.html" target="_blank">Movie Search UI</a></td>
-        <td>Frontend practice using a public movie API</td>
-      </tr>
+       
     </tbody>
   </table>
 
