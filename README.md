@@ -15,47 +15,6 @@
 
 <hr/>
 
-<details>
-  <summary>🌐 Live Project Links</summary>
-
-  <table align="center">
-    <thead>
-      <tr>
-        <th align="left">🧭</th>
-        <th align="left">📡 Project</th>
-        <th align="left">📝 Description</th>
-      </tr>
-    </thead>
-       <td>🛰️</td>
-        <td><a href="https://www.silentprototype.com/" target="_blank">silentprototype.com</a></td>
-        <td>Beta home of Silent Prototype Labs & tools</td>
-      </tr>
-      <tr>
-        <td>🧠</td>
-        <td><a href="https://www.builtbywill.dev/" target="_blank">builtbywill.dev</a></td>
-        <td>Personal portfolio & terminal-style landing page</td>
-      </tr>
-      <tr>
-        <td>🎓</td>
-        <td><a href="https://builtbywill-saas.vercel.app/" target="_blank">HavenLearn</a></td>
-        <td>SaaS course platform w/ auth, billing & UI polish</td>
-      </tr>
-      <tr>
-        <td>📚</td>
-        <td><a href="https://react-library-built-by-will.vercel.app/" target="_blank">HavenReads</a></td>
-        <td>Frontend library app — React-based w/ filtering</td>
-      </tr>
-      <tr>
-        <td>🧳</td>
-        <td><a href="https://builtbywill-travel.vercel.app/" target="_blank">HavenTravel</a></td>
-        <td>Admin dashboard clone w/ modern UI and logic</td>
-      </tr>
-      <tr>
-         </table>
-
-</details>
-
-<hr/>
 
 <div align="center">
 <h3 align="center">🧰 Stack & Tools</h3>
@@ -101,6 +60,9 @@
   <!-- Language & Shell -->
   <a href="https://www.learn-c.org/" title="C Language">
     <img src="https://skillicons.dev/icons?i=c" height="48" />
+  </a>
+  <a href="https://www.rust-lang.org/" title="Rust">
+    <img src="https://skillicons.dev/icons?i=rust" height="48" />
   </a>
   <a href="https://www.gnu.org/software/bash/" title="Bash / Shell">
     <img src="https://skillicons.dev/icons?i=bash" height="48" />
