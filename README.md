@@ -87,41 +87,6 @@
 
 </div>
 <hr/>
-<h3 align="center">🗺 Dev Roadmap</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td>🛠️</td>
-      <td>Build tools that solve real-world problems</td>
-    </tr>
-    <tr>
-      <td>🧠</td>
-      <td>Distill complexity into simple, executable software</td>
-    </tr>
-    <tr>
-      <td>📂</td>
-      <td>Ship: iExtract, RepoForge, Violet Collar, Coldmetal</td>
-    </tr>
-    <tr>
-      <td>🧱</td>
-      <td>Layer infrastructure: security, memory, automation</td>
-    </tr>
-    <tr>
-      <td>🔁</td>
-      <td>Refine, document, deploy — one tool at a time</td>
-    </tr>
-    <tr>
-      <td>💸</td>
-      <td>Launch pricing models: $1 entry → enterprise licenses</td>
-    </tr>
-    <tr>
-      <td>🧬</td>
-      <td>Fold everything into the Silent Prototype ecosystem</td>
-    </tr>
-  </table>
-</div>
-
-<hr/>
 
 <details>
 <summary><strong>👨‍💻 About Me</strong> — click to expand</summary>
@@ -167,26 +132,6 @@
 
 <hr/>
 
-<h3 align="center">🛠 Let’s Build</h3>
-<h6 align="center">Whether you're hiring, collaborating, or just curious →</h6>
-<div align="center">
-  <table>
-    <tr>
-      <td><strong>🌐</strong></td>
-      <td><a href="https://www.builtbywill.dev" target="_blank"><code>builtbywill.dev</code></a></td>
-    </tr>
-    <tr>
-      <td><strong>📬</strong></td>
-      <td><a href="mailto:WNBrown@builtbywill.dev"><code>WNBrown@builtbywill.dev</code></a></td>
-    </tr>
-    <tr>
-      <td><strong>𝕏</strong></td>
-      <td><a href="https://x.com/builtbywill" target="_blank"><code>@builtbywill</code></a></td>
-    </tr>
-  </table>
-</div>
-
-<hr/>
 
 <!---
 builtbywilldev/builtbywilldev is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
