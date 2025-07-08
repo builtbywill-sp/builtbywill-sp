@@ -137,3 +137,12 @@
 builtbywilldev/builtbywilldev is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 You can click the Preview link to see it live.
 --->
+
+
+<div align="center">
+
+<hr/>
+
+<pre><code>🕳️ /silent/labs/VCOS ~ $ sudo launch.sh</code></pre>
+
+</div>
